@@ -22,7 +22,7 @@
 ## About Me
 
 <p>
-  <b>Full-Stack Engineer & Web Architect</b> based in Dhaka, Bangladesh with <b>5+ years</b> of hands-on experience bridging high-end UI/UX design with scalable full-stack engineering. Currently mastering advanced MERN architectures, distributed REST APIs, and modern web performance.
+  <b>Web Designer & Developer</b> with <b>5+ years</b> of industry experience, actively leveling up into <b>MERN Full-Stack Engineering</b>. Hands-on with <b>React, Node.js, Express, MongoDB, and TypeScript</b>—bridging pixel-perfect UI/UX design with robust REST APIs, secure authentication, and scalable database architecture.
 </p>
 
 <table width="100%">
