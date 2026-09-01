@@ -29,12 +29,6 @@
 | :---: | :---: | :---: | :---: |
 | **Dhaka, Bangladesh** | **5+ Years Industry** | **MERN Stack & Next.js** | **Freelance & Contract** |
 
-<br/>
-
-| Full-Stack Development | Design & CMS Solutions | Performance & Automation |
-| :--- | :--- | :--- |
-| Engineering responsive web applications, modular React architectures, RESTful backend APIs with Node/Express, and robust MongoDB schemas. | Building high-converting digital platforms, custom WordPress themes/plugins, Shopify storefronts, and Framer/Webflow landing pages. | Optimizing Core Web Vitals, implementing technical SEO architecture, and streamlining business workflows using n8n and Make.com. |
-
 ---
 
 ## Tech Stack & Tooling
@@ -222,4 +216,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981,34D399,059669&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:34D399,100:059669&height=120&section=footer&animation=fadeIn" width="100%"/>
