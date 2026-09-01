@@ -212,8 +212,8 @@
 
 [![Website](https://img.shields.io/badge/Website-choyon.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://choyon.dev)
 [![Email](https://img.shields.io/badge/Email-hello%40choyon.dev-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@choyon.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fajle-rabbi-choyon)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choyon-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fajle--rabbi--choyon-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fajle-rabbi-choyon)
+[![GitHub](https://img.shields.io/badge/GitHub-choyon--dev-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choyon-dev)
 
 <br/>
 
@@ -222,4 +222,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981,059669,047857&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981,34D399,059669&height=120&section=footer&animation=fadeIn" width="100%"/>
