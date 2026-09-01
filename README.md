@@ -21,29 +21,20 @@
 
 ## About Me
 
-```typescript
-interface DeveloperProfile {
-  name: string;
-  role: string;
-  location: string;
-  experience: string;
-  currentFocus: string;
-  coreStack: string[];
-  engineeringValues: string[];
-  status: string;
-}
+<p>
+  <b>Full-Stack Engineer & Web Architect</b> based in Dhaka, Bangladesh with <b>5+ years</b> of hands-on experience bridging high-end UI/UX design with scalable full-stack engineering. Currently mastering advanced MERN architectures, distributed REST APIs, and modern web performance.
+</p>
 
-const choyon: DeveloperProfile = {
-  name: "Fajle Rabbi Choyon",
-  role: "Full-Stack Engineer & Web Architect",
-  location: "Uttara, Dhaka, Bangladesh (GMT+6)",
-  experience: "5+ Years Professional Industry Experience",
-  currentFocus: "MERN Stack Engineering & Scalable Web Applications",
-  coreStack: ["React", "Node.js", "Express.js", "MongoDB", "TypeScript", "Next.js"],
-  engineeringValues: ["Clean Architecture", "Type Safety", "Performance-First", "Intuitive UX"],
-  status: "Open for freelance projects, technical consulting & contract roles"
-};
-```
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><b>Location</b><br/>Dhaka, Bangladesh (GMT+6)</td>
+    <td width="25%" align="center"><b>Experience</b><br/>5+ Years Industry</td>
+    <td width="25%" align="center"><b>Current Focus</b><br/>MERN Stack & Next.js</td>
+    <td width="25%" align="center"><b>Availability</b><br/>Freelance & Contract</td>
+  </tr>
+</table>
+
+<br/>
 
 <table>
   <tr>
