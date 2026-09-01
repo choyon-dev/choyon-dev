@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981,059669,047857&height=200&section=header&text=Fajle%20Rabbi%20Choyon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Designer%20%26%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="./assets/banner.jpg" alt="Fajle Rabbi Choyon - Full-Stack Engineer & Web Architect" width="100%" style="border-radius: 8px;" />
+
+<br/>
 
 <!-- Animated Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Full-Stack+Developer;5%2B+Years+of+Crafting+Digital+Experiences;Currently+Mastering+MERN+Full+Stack+Engineering;Transforming+Ideas+into+Scalable+Web+Products)](https://git.io/typing-svg)
