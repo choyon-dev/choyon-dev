@@ -27,7 +27,7 @@
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center"><b>Location</b><br/>Dhaka, Bangladesh (GMT+6)</td>
+    <td width="25%" align="center"><b>Location</b><br/>Dhaka, Bangladesh</td>
     <td width="25%" align="center"><b>Experience</b><br/>5+ Years Industry</td>
     <td width="25%" align="center"><b>Current Focus</b><br/>MERN Stack & Next.js</td>
     <td width="25%" align="center"><b>Availability</b><br/>Freelance & Contract</td>
@@ -36,7 +36,7 @@
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33.3%" valign="top">
       <h4>Full-Stack Development</h4>
