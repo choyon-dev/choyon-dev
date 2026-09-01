@@ -25,33 +25,15 @@
   <b>Web Designer & Developer</b> with <b>5+ years</b> of industry experience, actively leveling up into <b>MERN Full-Stack Engineering</b>. Hands-on with <b>React, Node.js, Express, MongoDB, and TypeScript</b>—bridging pixel-perfect UI/UX design with robust REST APIs, secure authentication, and scalable database architecture.
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><b>Location</b><br/>Dhaka, Bangladesh</td>
-    <td width="25%" align="center"><b>Experience</b><br/>5+ Years Industry</td>
-    <td width="25%" align="center"><b>Current Focus</b><br/>MERN Stack & Next.js</td>
-    <td width="25%" align="center"><b>Availability</b><br/>Freelance & Contract</td>
-  </tr>
-</table>
+| Location | Experience | Current Focus | Availability |
+| :---: | :---: | :---: | :---: |
+| **Dhaka, Bangladesh** | **5+ Years Industry** | **MERN Stack & Next.js** | **Freelance & Contract** |
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="33.3%" valign="top">
-      <h4>Full-Stack Development</h4>
-      <p>Engineering responsive web applications, modular React architectures, RESTful backend APIs with Node/Express, and robust MongoDB schemas.</p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>Design & CMS Solutions</h4>
-      <p>Building high-converting digital platforms, custom WordPress themes/plugins, Shopify storefronts, and Framer/Webflow landing pages.</p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>Performance & Automation</h4>
-      <p>Optimizing Core Web Vitals, implementing technical SEO architecture, and streamlining business workflows using n8n and Make.com.</p>
-    </td>
-  </tr>
-</table>
+| Full-Stack Development | Design & CMS Solutions | Performance & Automation |
+| :--- | :--- | :--- |
+| Engineering responsive web applications, modular React architectures, RESTful backend APIs with Node/Express, and robust MongoDB schemas. | Building high-converting digital platforms, custom WordPress themes/plugins, Shopify storefronts, and Framer/Webflow landing pages. | Optimizing Core Web Vitals, implementing technical SEO architecture, and streamlining business workflows using n8n and Make.com. |
 
 ---
 
