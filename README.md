@@ -78,8 +78,11 @@ const choyon = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"/>
 </p>
 
 ### Backend & Databases
@@ -87,65 +90,78 @@ const choyon = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### Workflow & Automation
+### Workflow, Testing & Automation
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
 </p>
 
 ---
 
-## MERN Stack Engineering Track
+## MERN & Full-Stack Engineering Roadmap
 
 ```
-MERN Roadmap & Mastery Progression
+Curriculum & Progression Overview
 ─────────────────────────────────────────────────────────────
-Frontend      [========================..] React.js Core & Advanced
-State & Flow  [====================......] Context API / Redux Toolkit
-Backend Core  [==================........] Node.js Runtime & NPM
-REST APIs     [==================........] Express.js & Middleware
-Database      [==================........] MongoDB & Mongoose ODM
-Auth & Sec    [================..........] JWT Authentication & Sessions
-Full Stack    [================..........] End-to-End CRUD Applications
-Cloud Deploy  [==============............] Vercel / Railway / Atlas
+Frontend & UI        [==========================] HTML5, CSS3, Tailwind CSS, DaisyUI
+JavaScript & DOM     [==========================] ES6+, DOM Manipulation, Async/APIs
+React & Ecosystem    [======================....] Components, Router, Hooks, Context
+Auth & Security      [==================........] Firebase Auth, JWT, Protected Routes
+Backend & REST APIs  [==================........] Node.js, Express.js, Custom Middleware
+Database & ODM       [==================........] MongoDB Atlas, Mongoose, Aggregation
+Full-Stack & Payment [================..........] End-to-End CRUD, Stripe / SSLCommerz
+Advanced Web Arch    [==============............] Next.js (SSR/SSG), TypeScript, Docker
 ─────────────────────────────────────────────────────────────
 ```
 
 <details>
-<summary><b>View Detailed Learning Checklist</b></summary>
+<summary><b>View Detailed Learning Progression & Topics</b></summary>
 
 <br/>
 
-**Foundations (Completed)**
-- [x] Modern JavaScript (ES6+, Async/Await, Closures)
-- [x] Semantic HTML5, CSS3, Flexbox & CSS Grid
-- [x] Responsive Design & Cross-Browser Optimization
-- [x] PHP & MySQL Relational Database Integration
-- [x] CMS Architecture (WordPress, Shopify, Webflow)
-- [x] Version Control (Git & GitHub Workflows)
+**Phase 1: Web Fundamentals & UI Architecture (Completed)**
+- [x] Semantic HTML5, Page Structure & Web Accessibility (a11y)
+- [x] Modern CSS3, Flexbox, CSS Grid & Responsive Layouts
+- [x] Utility-First Styling with Tailwind CSS & DaisyUI
+- [x] Git & GitHub (Branching, Pull Requests, Version Control)
+- [x] Platform & CMS Architecture (WordPress, Webflow, Framer, Shopify)
 
-**Active Focus (In Progress)**
-- [x] React Component Lifecycle & Hooks (`useState`, `useEffect`, `useMemo`)
-- [ ] Global State Management (Redux Toolkit, Zustand)
-- [ ] Node.js Asynchronous Architecture
-- [ ] Express.js Routing, Middleware & Error Handlers
-- [ ] MongoDB Schema Design & Aggregation Pipelines
-- [ ] JWT Authentication & Protected Endpoints
-- [ ] Production Full-Stack MERN Deployment
+**Phase 2: Core JavaScript & Asynchronous Programming (Completed)**
+- [x] JavaScript Fundamentals (ES6+, Scopes, Closures, Hoisting)
+- [x] Array Methods & Data Operations (`map`, `filter`, `reduce`, `find`)
+- [x] DOM Traversal, Event Delegation & Dynamic UI Generation
+- [x] Asynchronous JavaScript (Promises, `async/await`, Fetch API, Axios)
+- [x] Client Storage (`localStorage`, `sessionStorage`, Cookies)
 
-**Upcoming Architecture**
-- [ ] Next.js (App Router, Server Components, SSR/SSG)
-- [ ] TypeScript Integration
-- [ ] Docker Containerization
-- [ ] Automated Testing (Jest, React Testing Library)
+**Phase 3: React.js & Single Page Applications (Active Focus)**
+- [x] React Component Architecture, JSX & Props Flow
+- [x] Core Hooks (`useState`, `useEffect`, `useRef`, `useMemo`, `useCallback`)
+- [x] Single Page Routing with React Router DOM (Dynamic & Nested Routes)
+- [x] Form Handling & Validation with React Hook Form
+- [ ] Global State Management (Context API & TanStack Query)
+
+**Phase 4: Backend, Database & Authentication (Active Focus)**
+- [x] Node.js Runtime Architecture & NPM Package Ecosystem
+- [ ] Express.js Server Setup, RESTful Routing & Middleware Design
+- [ ] MongoDB Atlas Configuration & Mongoose Schema Modeling
+- [ ] Authentication Systems (Firebase Auth, JWT Token Management)
+- [ ] Full-Stack CRUD API Design & Error Handling Middleware
+
+**Phase 5: Full-Stack Integration & Production Architecture (Upcoming)**
+- [ ] End-to-End MERN Application with Secure Role-Based Access Control
+- [ ] Payment Gateway Integration (Stripe & SSLCommerz)
+- [ ] Next.js (App Router, Server Components, SSR, SSG & Server Actions)
+- [ ] TypeScript Integration for Full-Stack Type Safety
+- [ ] Production Deployment & CI/CD Pipelines (Vercel, Render, Railway, Atlas)
 
 </details>
 
