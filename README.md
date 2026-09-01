@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Full-Stack+Developer;5%2B+Years+of+Crafting+Digital+Experiences;Currently+Mastering+MERN+Full+Stack+Engineering;Transforming+Ideas+into+Scalable+Web+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Full-Stack+Developer;5%2B+Years+of+Crafting+Digital+Experiences;Mastering+MERN+Full+Stack+Engineering;Transforming+Ideas+into+Scalable+Web+Products)](https://git.io/typing-svg)
 
 <!-- Profile Badges -->
 <p>
@@ -21,45 +21,45 @@
 
 ## About Me
 
-```javascript
-const choyon = {
+```typescript
+interface DeveloperProfile {
+  name: string;
+  role: string;
+  location: string;
+  experience: string;
+  currentFocus: string;
+  coreStack: string[];
+  engineeringValues: string[];
+  status: string;
+}
+
+const choyon: DeveloperProfile = {
   name: "Fajle Rabbi Choyon",
-  handle: "choyon-dev",
-  location: "Uttara, Dhaka, Bangladesh",
-  website: "https://choyon.dev",
-  email: "hello@choyon.dev",
-  role: "Web Designer & Full-Stack Developer",
-  experience: "5+ Years",
-  currentFocus: "MERN Stack Web Engineering",
-  coreValues: ["Clean Architecture", "Performance", "Modern Design"],
-  availableForHire: true
+  role: "Full-Stack Engineer & Web Architect",
+  location: "Uttara, Dhaka, Bangladesh (GMT+6)",
+  experience: "5+ Years Professional Industry Experience",
+  currentFocus: "MERN Stack Engineering & Scalable Web Applications",
+  coreStack: ["React", "Node.js", "Express.js", "MongoDB", "TypeScript", "Next.js"],
+  engineeringValues: ["Clean Architecture", "Type Safety", "Performance-First", "Intuitive UX"],
+  status: "Open for freelance projects, technical consulting & contract roles"
 };
 ```
 
 <table>
-<tr>
-<td valign="top" width="50%">
-
-### Core Disciplines
-- **Design & UI/UX:** High-converting, responsive interfaces and design systems.
-- **Web Development:** Scalable applications, bespoke themes, and custom platforms.
-- **Performance & SEO:** Technical SEO audits, Core Web Vitals optimization, and speed tuning.
-- **Automation & APIs:** Workflow automation via n8n, Make.com, and custom integrations.
-
-</td>
-<td valign="top" width="50%">
-
-### Overview
-| Detail | Information |
-|---|---|
-| **Location** | Dhaka, Bangladesh (GMT+6) |
-| **Experience** | 5+ Years Industry Experience |
-| **Specialization** | MERN Stack & CMS Architecture |
-| **Platforms** | WordPress, Webflow, Framer, Shopify |
-| **Contact** | hello@choyon.dev |
-
-</td>
-</tr>
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>Full-Stack Development</h4>
+      <p>Engineering responsive web applications, modular React architectures, RESTful backend APIs with Node/Express, and robust MongoDB schemas.</p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>Design & CMS Solutions</h4>
+      <p>Building high-converting digital platforms, custom WordPress themes/plugins, Shopify storefronts, and Framer/Webflow landing pages.</p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>Performance & Automation</h4>
+      <p>Optimizing Core Web Vitals, implementing technical SEO architecture, and streamlining business workflows using n8n and Make.com.</p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -109,21 +109,18 @@ const choyon = {
 
 ---
 
-## MERN & Full-Stack Engineering Roadmap
+## Full-Stack Engineering Roadmap & Progression
 
-```
-Curriculum & Progression Overview
-─────────────────────────────────────────────────────────────
-Frontend & UI        [==========================] HTML5, CSS3, Tailwind CSS, DaisyUI
-JavaScript & DOM     [==========================] ES6+, DOM Manipulation, Async/APIs
-React & Ecosystem    [======================....] Components, Router, Hooks, Context
-Auth & Security      [==================........] Firebase Auth, JWT, Protected Routes
-Backend & REST APIs  [==================........] Node.js, Express.js, Custom Middleware
-Database & ODM       [==================........] MongoDB Atlas, Mongoose, Aggregation
-Full-Stack & Payment [================..........] End-to-End CRUD, Stripe / SSLCommerz
-Advanced Web Arch    [==============............] Next.js (SSR/SSG), TypeScript, Docker
-─────────────────────────────────────────────────────────────
-```
+| Domain / Milestone | Core Technologies & Focus Areas | Progression | Status |
+|:---|:---|:---:|:---:|
+| **Web Fundamentals & UI** | Semantic HTML5, Modern CSS3, Responsive Design, Tailwind CSS, DaisyUI | `██████████ 100%` | ![Mastered](https://img.shields.io/badge/Mastered-10B981?style=flat-square) |
+| **JavaScript & DOM Architecture** | ES6+ Syntax, Scopes, Closures, Array Methods, Async/Await, Fetch API | `██████████ 100%` | ![Mastered](https://img.shields.io/badge/Mastered-10B981?style=flat-square) |
+| **React & SPA Ecosystem** | Component Trees, Core Hooks, React Router DOM v6, React Hook Form | `████████░░ 80%` | ![Active Focus](https://img.shields.io/badge/Active%20Focus-10B981?style=flat-square) |
+| **Backend & RESTful Services** | Node.js Runtime, Express.js Framework, Routing, Custom Middleware, CORS | `██████░░░░ 65%` | ![In Progress](https://img.shields.io/badge/In%20Progress-059669?style=flat-square) |
+| **Database & ODM Modeling** | MongoDB Atlas, Mongoose ODM, Schema Architecture, Aggregation Queries | `██████░░░░ 60%` | ![In Progress](https://img.shields.io/badge/In%20Progress-059669?style=flat-square) |
+| **Authentication & Security** | Firebase Auth Integration, JWT Token Lifecycles, Role-Based Access (RBAC) | `█████░░░░░ 50%` | ![In Progress](https://img.shields.io/badge/In%20Progress-059669?style=flat-square) |
+| **Full-Stack & Payment Gateways** | End-to-End MERN Applications, Stripe & SSLCommerz Integration | `████░░░░░░ 40%` | ![Upcoming](https://img.shields.io/badge/Upcoming-6B7280?style=flat-square) |
+| **Next-Gen Production Arch** | Next.js (App Router, Server Components, SSR/SSG), TypeScript, Docker | `███░░░░░░░ 30%` | ![Planned](https://img.shields.io/badge/Planned-374151?style=flat-square) |
 
 <details>
 <summary><b>View Detailed Learning Progression & Topics</b></summary>
@@ -186,25 +183,21 @@ Advanced Web Arch    [==============............] Next.js (SSR/SSG), TypeScript,
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=choyon-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=choyon-dev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10B981&text_color=c9d1d9&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Top Languages" />
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=choyon-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview Stats" height="175px"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=choyon-dev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Most Used Languages" height="175px"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <a href="https://github.com/choyon-dev">
-  <img src="https://streak-stats.demolab.com/?user=choyon-dev&theme=tokyonight&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=c9d1d9&border=10B981&stroke=10B981&dates=888888&border_radius=8" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/choyon-dev">
-  <img src="https://github-trophies.vercel.app/?username=choyon-dev&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=choyon-dev&theme=tokyonight&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=e6edf3&border=10B981&stroke=10B981&dates=888888&border_radius=8" alt="GitHub Streak Stats" />
 </a>
 
 </div>
