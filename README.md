@@ -168,8 +168,8 @@ Cloud Deploy  [==============............] Vercel / Railway / Atlas
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=choyon-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=choyon-dev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10B981&text_color=c9d1d9&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Top Languages" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=choyon-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=choyon-dev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10B981&text_color=c9d1d9&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Top Languages" />
 
 <br/>
 
