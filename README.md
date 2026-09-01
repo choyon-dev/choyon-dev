@@ -150,16 +150,12 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=choyon-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview Stats" height="175px"/>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=choyon-dev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Most Used Languages" height="175px"/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/choyon-dev">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=choyon-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview Stats" height="175px" />
+</a>
+<a href="https://github.com/choyon-dev">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=choyon-dev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Most Used Languages" height="175px" />
+</a>
 
 <br/>
 
@@ -178,7 +174,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/choyon-dev/choyon-dev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/choyon-dev/choyon-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/choyon-dev/choyon-dev/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/choyon-dev/choyon-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
