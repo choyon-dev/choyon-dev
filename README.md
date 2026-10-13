@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="./assets/banner.jpg" alt="Fajle Rabbi Choyon - Full-Stack Engineer & Web Architect" width="100%" style="border-radius: 8px;" />
+<img src="./assets/choyongithubbanner.png" alt="Fajle Rabbi Choyon - Full-Stack Engineer & Web Architect" width="100%" style="border-radius: 8px;" />
 
 <br/>
 
